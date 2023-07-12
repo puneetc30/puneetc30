@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @puneetc30
 - 👀 I’m interested in Machine Learning and Data Science
-- 🌱 I’m currently learning Python and Data Structures
+- 🌱 I’m currently learning Deep Learning
 - 📫 chaudharypuneet48@gmail.com
 
 <!---
